@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 <div align="center">
-  <img src="https://w7.pngwing.com/pngs/583/865/png-transparent-black-harry-potter-hat-art-sorting-hat-harry-potter-decal-harry-potter-sorting-hat-harry-potter-decal.png" alt="Sorting Hat Logo" width="600">
+  <img src="https://images.icon-icons.com/1352/PNG/512/if-06-harry-potter-colour-sorting-hat-2730319_88134.png" alt="Sorting Hat Logo" width="250">
 </div>
 
 ## Table of Contents
