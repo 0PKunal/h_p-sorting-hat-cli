@@ -1,4 +1,4 @@
-# Sorting Hat
+# Harry Potter Sorting Hat
 
 [![Python Version](https://img.shields.io/badge/python-3.x%2B-blue.svg)](https://www.python.org/downloads/)
 [![C](https://img.shields.io/badge/C-Programming-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -7,11 +7,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x200?text=Sorting+Hat+Project" alt="Sorting Hat Logo" width="600">
+  <img src="https://w7.pngwing.com/pngs/583/865/png-transparent-black-harry-potter-hat-art-sorting-hat-harry-potter-decal-harry-potter-sorting-hat-harry-potter-decal.png" alt="Sorting Hat Logo" width="600">
 </div>
 
 ## Table of Contents
-- [Sorting Hat](#sorting-hat)
+- [Harry Potter Sorting Hat](#harry-potter-sorting-hat)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Files](#files)
