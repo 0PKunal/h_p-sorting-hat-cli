@@ -1,4 +1,8 @@
-# Harry Potter Sorting Hat
+<p align="center">
+  <img src="https://images.icon-icons.com/1352/PNG/512/if-06-harry-potter-colour-sorting-hat-2730319_88134.png" alt="Sorting Hat Logo" width="100">
+</p>
+
+<h1 align="center">Harry Potter Sorting Hat</h1>
 
 [![Python Version](https://img.shields.io/badge/python-3.x%2B-blue.svg)](https://www.python.org/downloads/)
 [![C](https://img.shields.io/badge/C-Programming-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -6,33 +10,29 @@
 [![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue.svg)](https://code.visualstudio.com/download)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-<div align="center">
-  <img src="https://images.icon-icons.com/1352/PNG/512/if-06-harry-potter-colour-sorting-hat-2730319_88134.png" alt="Sorting Hat Logo" width="250">
-</div>
 
 ## Table of Contents
-- [Harry Potter Sorting Hat](#harry-potter-sorting-hat)
-  - [Table of Contents](#table-of-contents)
-  - [Overview](#overview)
-  - [Files](#files)
-  - [Features](#features)
-  - [Prerequisites](#prerequisites)
-    - [For C:](#for-c)
-    - [For Python:](#for-python)
-  - [How to Use](#how-to-use)
-    - [Running the C Program](#running-the-c-program)
-    - [Running the Python Program](#running-the-python-program)
-  - [Tasks](#tasks)
-  - [Contributing](#contributing)
-    - [Suggest Enhancements](#suggest-enhancements)
-    - [Submit Pull Requests](#submit-pull-requests)
-    - [Ideas for Contribution](#ideas-for-contribution)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
+- [Table of Contents](#table-of-contents)
+- [Overview](#overview)
+- [Files](#files)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+  - [For C](#for-c)
+  - [For Python](#for-python)
+- [How to Use](#how-to-use)
+  - [Running the C Program](#running-the-c-program)
+  - [Running the Python Program](#running-the-python-program)
+- [Tasks](#tasks)
+- [Contributing](#contributing)
+  - [Suggest Enhancements](#suggest-enhancements)
+  - [Submit Pull Requests](#submit-pull-requests)
+  - [Ideas for Contribution](#ideas-for-contribution)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
-Welcome to the **Sorting Hat** project! This repository contains implementations of sorting algorithms in both C and Python. The project is designed to help users understand and compare sorting algorithms across different programming languages.
+Welcome to the **Sorting Hat** project! This repository contains implementations of sorting algorithms in both C and Python. The project aims to help users understand, compare, and experiment with sorting algorithms across different programming languages.
 
 ## Files
 
@@ -43,19 +43,19 @@ Welcome to the **Sorting Hat** project! This repository contains implementations
 
 ## Features
 
-- Compare sorting algorithms in C and Python.
-- Learn how sorting algorithms are implemented in different languages.
+- Compare sorting algorithms implemented in C and Python.
+- Learn how sorting algorithms work in different programming paradigms.
 - Experiment with and modify the code to suit your needs.
 - Well-documented code for easy understanding.
 - Cross-platform compatibility.
 
 ## Prerequisites
 
-### For C:
+### For C
 - GCC compiler (e.g., MinGW on Windows).
 - A terminal or command prompt.
 
-### For Python:
+### For Python
 - Python 3.x installed on your system.
 - A terminal or command prompt.
 
@@ -69,9 +69,9 @@ Welcome to the **Sorting Hat** project! This repository contains implementations
    ```
 3. Run the compiled executable:
    ```bash
-   ./sorting_hat.exe
+   sorting_hat.exe
    ```
-   > **Note:** On Windows, you may need to use `sorting_hat.exe` instead of `./sorting_hat.exe`.
+   > **Note:** On Unix-based systems, you may need to use `./sorting_hat.exe` instead.
 
 ### Running the Python Program
 1. Open the project folder in your terminal.
